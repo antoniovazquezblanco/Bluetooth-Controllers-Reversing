@@ -1,11 +1,15 @@
 # UGREEN CM591 Dongle
 
-| Parameter | Value                                      |
-| --------- | ------------------------------------------ |
-| Chip      | [Actions ATS2851](Chip_Actions_ATS2851.md) |
-| Transport | USB                                        |
-| VID       | 0x10d7                                     |
-| PID       | 0xb012                                     |
+| Parameter      | Value                                      |
+| -------------- | ------------------------------------------ |
+| Chip           | [Actions ATS2851](Chip_Actions_ATS2851.md) |
+| Transport      | USB                                        |
+| VID            | 0x10d7                                     |
+| PID            | 0xb012                                     |
+| HCI Version    | 5.3                                        |
+| HCI Subversion | 513                                        |
+| LMP Version    | 5.3                                        |
+| LMP Subversion | 513                                        |
 
 ## Vendor commands
 
