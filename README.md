@@ -7,6 +7,7 @@ Reverse engineering Bluetooth controllers to get more out of them!
 | Device                                 | VID    | PID    | Chip                                       |
 | -------------------------------------- | ------ | ------ | ------------------------------------------ |
 | [UGREEN CM591](Dongle_UGREEN_CM591.md) | 0x10d7 | 0xb012 | [Actions ATS2851](Chip_Actions_ATS2851.md) |
+| [UGREEN CM748](Dongle_UGREEN_CM748.md) | 0x33fa | 0x0012 | ?                                          |
 
 ## Chips
 
