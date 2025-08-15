@@ -6,10 +6,11 @@
 | Transport      | USB                                        |
 | VID            | 0x10d7                                     |
 | PID            | 0xb012                                     |
-| HCI Version    | 5.3                                        |
-| HCI Subversion | 513                                        |
-| LMP Version    | 5.3                                        |
-| LMP Subversion | 513                                        |
+| HCI Version    | 0x0c (5.3)                                 |
+| HCI Subversion | 0x0201 (513)                               |
+| LMP Version    | 0x0c (5.3)                                 |
+| LMP Subversion | 0x0201 (513)                               |
+| Company        | Actions Technology Co.,Ltd                 |
 
 ## Vendor commands
 
