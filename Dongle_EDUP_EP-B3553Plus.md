@@ -1,16 +1,16 @@
 # EDUP EP-B3553Plus Dongle
 
-| Parameter      | Value                             |
-| -------------- | --------------------------------- |
-| Chip           | ?                                 |
-| Transport      | USB                               |
-| VID            | 0x0bda                            |
-| PID            | 0xa728                            |
-| HCI Version    | 0x0a (5.1)                        |
-| HCI Subversion | 0x000b (11)                       |
-| LMP Version    | 0x0a (5.1)                        |
-| LMP Subversion | 0x8761 (34657)                    |
-| Company        | Realtek Semiconductor Corporation |
+| Parameter      | Value                                            |
+| -------------- | ------------------------------------------------ |
+| Chip           | [Realtek RTL8761BUV](Chip_Realtek_RTL8761BUV.md) |
+| Transport      | USB                                              |
+| VID            | 0x0bda                                           |
+| PID            | 0xa728                                           |
+| HCI Version    | 0x0a (5.1)                                       |
+| HCI Subversion | 0x000b (11)                                      |
+| LMP Version    | 0x0a (5.1)                                       |
+| LMP Subversion | 0x8761 (34657)                                   |
+| Company        | Realtek Semiconductor Corporation                |
 
 ## Vendor commands
 
