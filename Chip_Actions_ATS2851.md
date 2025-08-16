@@ -4,13 +4,13 @@ This is some kind of RISC 32bit architecture running at 234MHz.
 
 ## Local version information
 
-| Parameter      | Value                      |
-| -------------- | -------------------------- |
-| HCI Version    | 0x0c (5.3)                 |
-| HCI Subversion | 0x0201 (513)               |
-| LMP Version    | 0x0c (5.3)                 |
-| LMP Subversion | 0x0201 (513)               |
-| Company        | Actions Technology Co.,Ltd |
+| Parameter      | Value                               |
+| -------------- | ----------------------------------- |
+| HCI Version    | 0x0c (5.3)                          |
+| HCI Subversion | 0x0201 (513)                        |
+| LMP Version    | 0x0c (5.3)                          |
+| LMP Subversion | 0x0201 (513)                        |
+| Company        | 0x03e0 (Actions Technology Co.,Ltd) |
 
 ## Vendor commands
 
