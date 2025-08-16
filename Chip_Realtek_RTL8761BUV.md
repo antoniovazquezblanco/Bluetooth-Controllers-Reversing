@@ -1,5 +1,15 @@
 # Realtek RTL8761BUV Chip
 
+## Local version information
+
+| Parameter      | Value                                      |
+| -------------- | ------------------------------------------ |
+| HCI Version    | 0x0a (5.1)                                 |
+| HCI Subversion | 0x000b (11)                                |
+| LMP Version    | 0x0a (5.1)                                 |
+| LMP Subversion | 0x8761 (34657)                             |
+| Company        | 0x005d (Realtek Semiconductor Corporation) |
+
 ## Vendor commands
 
 | Command | Purpose                                                                                                                                    |
