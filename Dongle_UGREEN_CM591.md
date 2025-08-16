@@ -12,14 +12,6 @@
 | LMP Subversion | 0x0201 (513)                               |
 | Company        | Actions Technology Co.,Ltd                 |
 
-## Vendor commands
-
-| Command | Purpose |
-| ------- | ------- |
-| 0xfc04  | Unknown |
-| 0xfc0c  | Unknown |
-| 0xfc0d  | Unknown |
-| 0xfc0f  | Unknown |
 
 ## Links and resources
 
