@@ -23,6 +23,7 @@
 | 0xfc35  | Unknown                       |
 | 0xfc36  | Unknown                       |
 | 0xfc80  | Unknown                       |
+| 0xfc81  | Unknown                       |
 
 ## Links and documentation
 
