@@ -1,16 +1,15 @@
 # EDUP EP-B3536 Dongle
 
-| Parameter      | Value                                            |
-| -------------- | ------------------------------------------------ |
-| Chip           | [Realtek RTL8761BUV](Chip_Realtek_RTL8761BUV.md) |
-| Transport      | USB                                              |
-| VID            | ?                                                |
-| PID            | ?                                                |
-| HCI Version    | ?                                                |
-| HCI Subversion | ?                                                |
-| LMP Version    | ?                                                |
-| LMP Subversion | ?                                                |
-| Company        | ?                                                |
+| Parameter | Value                                            |
+| --------- | ------------------------------------------------ |
+| Chip      | [Realtek RTL8761BUV](Chip_Realtek_RTL8761BUV.md) |
+| Transport | USB                                              |
+| VID       | ?                                                |
+| PID       | ?                                                |
+
+## Vendor commands
+
+Checkout the [Realtek RTL8761BUV](Chip_Realtek_RTL8761BUV.md) for information about vendor commands.
 
 ## Links and resources
 
