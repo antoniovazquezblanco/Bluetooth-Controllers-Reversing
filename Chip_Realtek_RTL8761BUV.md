@@ -13,7 +13,7 @@
 | 0xfc17  | Unknown                                                                                                                                    |
 | 0xfc1a  | Unknown                                                                                                                                    |
 | 0xfc1f  | Unknown                                                                                                                                    |
-| 0xfc20  | HCI_VSC_DOWNLOAD_PATCH                                                                                                                     |
+| 0xfc20  | [HCI_VSC_DOWNLOAD_PATCH](https://github.com/torvalds/linux/blob/ee94b00c1a648530333d9734200be7a45e6e00cd/drivers/bluetooth/btrtl.c#L846)   |
 | 0xfc21  | Unknown                                                                                                                                    |
 | 0xfc22  | Unknown                                                                                                                                    |
 | 0xfc27  | Unknown                                                                                                                                    |
