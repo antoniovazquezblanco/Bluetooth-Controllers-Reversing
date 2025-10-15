@@ -1,8 +1,8 @@
-# Actions ATS2851 Chip
+# Barrot Unknown Chip
 
 Seen in [UGREEN CM748](Dongle_UGREEN_CM748.md).
 Probably a glitch or a fault in local information command as it returns all zeros.
-I suspect this is a Barrot chip.
+I suspect this is a Barrot chip although Ericsson is reported.
 
 ## Local version information
 
