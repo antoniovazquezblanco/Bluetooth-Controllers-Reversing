@@ -15,3 +15,5 @@ Checkout the [Qualcomm CSR8150](Chip_Qualcomm_CSR8150.md) for information about 
 
 - <https://fcc.report/FCC-ID/TE7UB400>
 - <https://fcc.report/FCC-ID/TE7UB400/4263573.pdf>
+- <https://www.tp-link.com/es/home-networking/adapter/ub4a/>
+- <https://www.tp-link.com/es/support/download/ub4a/>
