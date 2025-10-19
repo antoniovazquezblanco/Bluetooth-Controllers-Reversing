@@ -20,6 +20,7 @@ Reverse engineering Bluetooth controllers to get more out of them!
 | [Actions ATS2851](Chip_Actions_ATS2851.md)       |
 | [Barrot BR8554](Chip_Barrot_BR8554.md)           |
 | [Barrot Unk](Chip_Barrot_Unk.md)                 |
+| [Espressif ESP32](Chip_Espressif_ESP32.md)       |
 | [Qualcomm CSR8150](Chip_Qualcomm_CSR8150.md)     |
 | [Realtek RTL8761BUV](Chip_Realtek_RTL8761BUV.md) |
 
