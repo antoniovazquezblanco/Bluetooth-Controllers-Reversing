@@ -12,9 +12,9 @@
 
 ## Vendor commands
 
-| Command | Purpose |
-| ------- | ------- |
-|         |         |
+| Command | Purpose         |
+| ------- | --------------- |
+| 0xfc32  | Set MAC address |
 
 ## Links and documentation
 
