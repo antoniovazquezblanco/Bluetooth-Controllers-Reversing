@@ -1,4 +1,4 @@
-# EDUP EP-B3536 Dongle
+# Cypress CYW920819EVB-02 Dongle
 
 | Parameter | Value                                        |
 | --------- | -------------------------------------------- |
