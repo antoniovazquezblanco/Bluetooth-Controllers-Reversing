@@ -1,4 +1,4 @@
-# Espressif ESP32 Chip
+# Cypress CYW20819 Chip
 
 ## Local version information
 
@@ -18,4 +18,5 @@
 
 ## Links and documentation
 
-- <https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf>
+- <https://www.infineon.com/part/CYW20819>
+- <https://www.infineon.com/assets/row/public/documents/30/49/infineon-cyw20819-airoc-bluetooth-bluetooth-le-system-on-chip-datasheet-en.pdf>
