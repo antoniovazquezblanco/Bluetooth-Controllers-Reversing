@@ -2,6 +2,8 @@
 
 ![ZEXMTE Z01](ZEXMTE_Z01.webp)
 
+It is common to see this model advertised as 5.3 and 5.4 Bluetooth compatible but the chip only supports 5.1.
+
 | Parameter        | Value                                            |
 | ---------------- | ------------------------------------------------ |
 | Chip             | [Realtek RTL8761BUV](Chip_Realtek_RTL8761BUV.md) |

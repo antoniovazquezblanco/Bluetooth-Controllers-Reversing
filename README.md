@@ -22,6 +22,7 @@ This repository serves two main purposes:
 | [UGREEN CM749](Dongle/UGREEN_CM749.md)                       | 0x33fa | 0x0010 | ?   | ?   | [Barrot BR8554](Chip/Barrot_BR8554.md)           |
 | [ZEXMTE Unk1](Dongle/ZEXMTE_Unk1.md)                         | 0x0bda | 0x7a28 | 1   | Yes | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
 | [ZEXMTE Z01](Dongle/ZEXMTE_Z01.md)                           | 0x0bda | 0x7a29 | 2   | No  | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
+| [ZEXMTE Z03](Dongle/ZEXMTE_Z03.md)                           | ?      | ?      | 0   | No  | ?                                                |
 
 ## Chips
 
