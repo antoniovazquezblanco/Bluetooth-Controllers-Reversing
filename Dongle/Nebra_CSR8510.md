@@ -1,5 +1,15 @@
 # Nebra CSR8510 Dongle
 
+![Nebra CSR8510](Nebra_CSR8510.jpg)
+
+| Parameter        | Value                                        |
+| ---------------- | -------------------------------------------- |
+| Chip             | [Qualcomm CSR8150](Chip_Qualcomm_CSR8150.md) |
+| Transport        | USB                                          |
+| VID              | ?                                            |
+| PID              | ?                                            |
+| External antenna | 0                                            |
+| SMA              | No                                           |
 
 ## Links and resources
 

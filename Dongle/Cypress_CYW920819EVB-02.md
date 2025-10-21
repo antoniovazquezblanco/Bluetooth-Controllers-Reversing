@@ -1,11 +1,15 @@
 # Cypress CYW920819EVB-02 Dongle
 
-| Parameter | Value                                        |
-| --------- | -------------------------------------------- |
-| Chip      | [Cypress CYW20819](Chip_Cypress_CYW20819.md) |
-| Transport | UART                                         |
-| VID       | ?                                            |
-| PID       | ?                                            |
+![Cypress CYW920819EVB-02](Cypress_CYW920819EVB-02.avif)
+
+| Parameter        | Value                                        |
+| ---------------- | -------------------------------------------- |
+| Chip             | [Cypress CYW20819](Chip_Cypress_CYW20819.md) |
+| Transport        | UART                                         |
+| VID              | ?                                            |
+| PID              | ?                                            |
+| External antenna | 1                                            |
+| SMA              | Yes                                          |
 
 ## Vendor commands
 

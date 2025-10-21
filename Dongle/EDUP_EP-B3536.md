@@ -1,11 +1,15 @@
 # EDUP EP-B3536 Dongle
 
-| Parameter | Value                                            |
-| --------- | ------------------------------------------------ |
-| Chip      | [Realtek RTL8761BUV](Chip_Realtek_RTL8761BUV.md) |
-| Transport | USB                                              |
-| VID       | ?                                                |
-| PID       | ?                                                |
+![EDUP EP-B3536](EDUP_EP-B3536.jpg)
+
+| Parameter        | Value                                            |
+| ---------------- | ------------------------------------------------ |
+| Chip             | [Realtek RTL8761BUV](Chip_Realtek_RTL8761BUV.md) |
+| Transport        | USB                                              |
+| VID              | ?                                                |
+| PID              | ?                                                |
+| External antenna | 1                                                |
+| SMA              | Yes                                              |
 
 ## Vendor commands
 

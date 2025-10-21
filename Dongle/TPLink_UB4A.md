@@ -1,11 +1,15 @@
 # TP-Link UB4A Dongle
 
-| Parameter | Value                                        |
-| --------- | -------------------------------------------- |
-| Chip      | [Qualcomm CSR8150](Chip_Qualcomm_CSR8150.md) |
-| Transport | USB                                          |
-| VID       | 0x0a12                                       |
-| PID       | 0x0001                                       |
+![TP-Link UB4A](TPLink_UB4A.jpg)
+
+| Parameter        | Value                                        |
+| ---------------- | -------------------------------------------- |
+| Chip             | [Qualcomm CSR8150](Chip_Qualcomm_CSR8150.md) |
+| Transport        | USB                                          |
+| VID              | 0x0a12                                       |
+| PID              | 0x0001                                       |
+| External antenna | 0                                            |
+| SMA              | No                                           |
 
 ## Vendor commands
 

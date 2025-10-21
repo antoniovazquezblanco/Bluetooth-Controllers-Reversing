@@ -13,16 +13,16 @@ If you want to contribute to this documentation and do not know how to, checkout
 
 | Device                                                       | VID    | PID    | Ant | SMA | Chip                                             |
 | ------------------------------------------------------------ | ------ | ------ | --- | --- | ------------------------------------------------ |
-| [Cypress CYW920819EVB-02](Dongle/Cypress_CYW920819EVB-02.md) | ?      | ?      | ?   | ?   | [Cypress CYW20819](Chip/Cypress_CYW20819.md)     |
-| [EDUP EP-B3536](Dongle/EDUP_EP-B3536.md)                     | ?      | ?      | ?   | ?   | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
-| [EDUP EP-B3553Plus](Dongle/EDUP_EP-B3553Plus.md)             | 0x0bda | 0xa728 | ?   | ?   | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
+| [Cypress CYW920819EVB-02](Dongle/Cypress_CYW920819EVB-02.md) | ?      | ?      | 1   | Yes | [Cypress CYW20819](Chip/Cypress_CYW20819.md)     |
+| [EDUP EP-B3536](Dongle/EDUP_EP-B3536.md)                     | ?      | ?      | 1   | Yes | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
+| [EDUP EP-B3553Plus](Dongle/EDUP_EP-B3553Plus.md)             | 0x0bda | 0xa728 | 1   | Yes | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
 | [Nebra CSR8510](Dongle/Nebra_CSR8510.md)                     | ?      | ?      | 0   | No  | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |
-| [TP-Link UB4A](Dongle/TPLink_UB4A.md)                        | 0x0a12 | 0x0001 | ?   | ?   | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |
+| [TP-Link UB4A](Dongle/TPLink_UB4A.md)                        | 0x0a12 | 0x0001 | 0   | No  | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |
 | [TP-Link UB500 Plus]()                                       | 0x2357 | 0x0604 | ?   | ?   | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
 | [TP-Link UB500]()                                            | 0x2357 | 0x0604 | ?   | ?   | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
-| [UGREEN CM591](Dongle/UGREEN_CM591.md)                       | 0x10d7 | 0xb012 | ?   | ?   | [Actions ATS2851](Chip/Actions_ATS2851.md)       |
-| [UGREEN CM748](Dongle/UGREEN_CM748.md)                       | 0x33fa | 0x0012 | ?   | ?   | [Barrot Unk](Chip/Barrot_Unk.md)                 |
-| [UGREEN CM749](Dongle/UGREEN_CM749.md)                       | 0x33fa | 0x0010 | ?   | ?   | [Barrot BR8554](Chip/Barrot_BR8554.md)           |
+| [UGREEN CM591](Dongle/UGREEN_CM591.md)                       | 0x10d7 | 0xb012 | 0   | No  | [Actions ATS2851](Chip/Actions_ATS2851.md)       |
+| [UGREEN CM748](Dongle/UGREEN_CM748.md)                       | 0x33fa | 0x0012 | 0   | No  | [Barrot Unk](Chip/Barrot_Unk.md)                 |
+| [UGREEN CM749](Dongle/UGREEN_CM749.md)                       | 0x33fa | 0x0010 | 1   | No  | [Barrot BR8554](Chip/Barrot_BR8554.md)           |
 | [ZEXMTE Unk1](Dongle/ZEXMTE_Unk1.md)                         | 0x0bda | 0x7a28 | 1   | Yes | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
 | [ZEXMTE Z01](Dongle/ZEXMTE_Z01.md)                           | 0x0bda | 0x7a29 | 2   | No  | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
 | [ZEXMTE Z03](Dongle/ZEXMTE_Z03.md)                           | ?      | ?      | 0   | No  | ?                                                |

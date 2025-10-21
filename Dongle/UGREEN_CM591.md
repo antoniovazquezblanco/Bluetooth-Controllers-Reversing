@@ -1,11 +1,15 @@
 # UGREEN CM591 Dongle
 
-| Parameter | Value                                      |
-| --------- | ------------------------------------------ |
-| Chip      | [Actions ATS2851](Chip_Actions_ATS2851.md) |
-| Transport | USB                                        |
-| VID       | 0x10d7                                     |
-| PID       | 0xb012                                     |
+![UGREEN CM591](UGREEN_CM591.jpg)
+
+| Parameter        | Value                                      |
+| ---------------- | ------------------------------------------ |
+| Chip             | [Actions ATS2851](Chip_Actions_ATS2851.md) |
+| Transport        | USB                                        |
+| VID              | 0x10d7                                     |
+| PID              | 0xb012                                     |
+| External antenna | 0                                          |
+| SMA              | No                                         |
 
 ## Vendor commands
 
