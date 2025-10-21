@@ -16,6 +16,7 @@ If you want to contribute to this documentation and do not know how to, checkout
 | [Cypress CYW920819EVB-02](Dongle/Cypress_CYW920819EVB-02.md) | ?      | ?      | ?   | ?   | [Cypress CYW20819](Chip/Cypress_CYW20819.md)     |
 | [EDUP EP-B3536](Dongle/EDUP_EP-B3536.md)                     | ?      | ?      | ?   | ?   | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
 | [EDUP EP-B3553Plus](Dongle/EDUP_EP-B3553Plus.md)             | 0x0bda | 0xa728 | ?   | ?   | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
+| [Nebra CSR8510](Dongle/Nebra_CSR8510.md)                     | ?      | ?      | 0   | No  | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |
 | [TP-Link UB4A](Dongle/TPLink_UB4A.md)                        | 0x0a12 | 0x0001 | ?   | ?   | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |
 | [TP-Link UB500 Plus]()                                       | 0x2357 | 0x0604 | ?   | ?   | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
 | [TP-Link UB500]()                                            | 0x2357 | 0x0604 | ?   | ?   | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
