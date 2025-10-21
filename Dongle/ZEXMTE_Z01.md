@@ -11,7 +11,7 @@ It is common to see this model advertised as 5.3 and 5.4 Bluetooth compatible bu
 | VID              | 0x0bda                                           |
 | PID              | 0x7a29                                           |
 | External antenna | 2                                                |
-| SMA              | No                                               |
+| Connector        | No                                               |
 
 ## Vendor commands
 

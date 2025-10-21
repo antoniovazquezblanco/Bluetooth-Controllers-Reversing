@@ -2,14 +2,14 @@
 
 ![UGREEN CM748](UGREEN_CM748.png)
 
-| Parameter | Value                            |
-| --------- | -------------------------------- |
-| Chip      | [Barrot Unk](Chip_Barrot_Unk.md) |
-| Transport | USB                              |
-| VID       | 0x33fa                           |
-| PID       | 0x0012                           |
-| External antenna | 0                                      |
-| SMA              | No                                     |
+| Parameter        | Value                            |
+| ---------------- | -------------------------------- |
+| Chip             | [Barrot Unk](Chip_Barrot_Unk.md) |
+| Transport        | USB                              |
+| VID              | 0x33fa                           |
+| PID              | 0x0012                           |
+| External antenna | 0                                |
+| Connector        | No                                           |
 
 ## Vendor commands
 

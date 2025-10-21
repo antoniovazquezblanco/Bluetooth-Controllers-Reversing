@@ -9,7 +9,7 @@
 | VID              | 0x0bda                                           |
 | PID              | 0xa728                                           |
 | External antenna | 1                                                |
-| SMA              | Yes                                              |
+| Connector        | SMA                                              |
 
 ## Vendor commands
 

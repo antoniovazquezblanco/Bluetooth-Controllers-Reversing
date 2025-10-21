@@ -9,7 +9,7 @@
 | VID              | 0x10d7                                     |
 | PID              | 0xb012                                     |
 | External antenna | 0                                          |
-| SMA              | No                                         |
+| Connector        | No                                           |
 
 ## Vendor commands
 

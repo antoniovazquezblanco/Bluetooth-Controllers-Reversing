@@ -9,7 +9,7 @@
 | VID              | 0x0a12                                       |
 | PID              | 0x0001                                       |
 | External antenna | 0                                            |
-| SMA              | No                                           |
+| Connector        | No                                           |
 
 ## Vendor commands
 

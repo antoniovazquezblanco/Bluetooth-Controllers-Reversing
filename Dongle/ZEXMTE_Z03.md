@@ -9,7 +9,7 @@
 | VID              | ?     |
 | PID              | ?     |
 | External antenna | 0     |
-| SMA              | No    |
+| Connector        | No    |
 
 ## Vendor commands
 
