@@ -7,6 +7,8 @@ This repository serves two main purposes:
 - Map Bluetooth dongles to Bluetooth chip controllers to facilitate purchase decissions.
 - Map vendor commands available for each chip, to get advanced functionalities.
 
+If you want to contribute to this documentation and do not know how to, checkout the [Guide](Guide/README.md)
+
 ## Dongles
 
 | Device                                                       | VID    | PID    | Ant | SMA | Chip                                             |
