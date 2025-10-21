@@ -12,3 +12,14 @@ Also, wireless devices should undergo a certification process to be legal to sel
 2. Add an image of the device, if possible directly from the manufacturer webpage.
 3. Fill in the information you have found. Do not forget to add the links to the FCC reports or de manufacturer web.
 4. Add the device to the readme table.
+
+## Dongle chip identification
+
+Try to locate the Bluetooth chip in FCC internal photos.
+Identify the VID and PID of the USB.
+See vendor in the local version information HCI packet.
+Tear down the dongle and identify the chips.
+
+## Vendor command enumeration
+
+[Vendor Command Enumerator](https://github.com/TarlogicSecurity/BluetoothExamplesAndDemos/tree/main/VendorCommandEnumerator)
