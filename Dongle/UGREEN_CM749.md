@@ -9,7 +9,7 @@
 | VID              | 0x33fa                                 |
 | PID              | 0x0010                                 |
 | External antenna | 1                                      |
-| Connector        | No                                           |
+| Connector        | No                                     |
 
 ## Vendor commands
 
