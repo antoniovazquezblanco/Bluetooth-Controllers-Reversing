@@ -9,7 +9,7 @@ It is common to see this model advertised as 5.3 and 5.4 Bluetooth compatible bu
 | Chip             | [Realtek RTL8761BUV](Chip_Realtek_RTL8761BUV.md) |
 | Transport        | USB                                              |
 | VID              | 0x0bda                                           |
-| PID              | 0x7a29                                           |
+| PID              | 0xa729                                           |
 | External antenna | 2                                                |
 | Connector        | No                                               |
 

@@ -23,8 +23,8 @@ If you want to contribute to this documentation and do not know how to, checkout
 | [UGREEN CM591](Dongle/UGREEN_CM591.md)                       | 0x10d7 | 0xb012 | USB    | 0   | No  | [Actions ATS2851](Chip/Actions_ATS2851.md)       |
 | [UGREEN CM748](Dongle/UGREEN_CM748.md)                       | 0x33fa | 0x0012 | USB    | 0   | No  | [Barrot Unk](Chip/Barrot_Unk.md)                 |
 | [UGREEN CM749](Dongle/UGREEN_CM749.md)                       | 0x33fa | 0x0010 | USB    | 1   | No  | [Barrot BR8554](Chip/Barrot_BR8554.md)           |
-| [ZEXMTE Unk1](Dongle/ZEXMTE_Unk1.md)                         | 0x0bda | 0x7a28 | USB    | 1   | SMA | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
-| [ZEXMTE Z01](Dongle/ZEXMTE_Z01.md)                           | 0x0bda | 0x7a29 | USB    | 2   | No  | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
+| [ZEXMTE Unk1](Dongle/ZEXMTE_Unk1.md)                         | 0x0bda | 0xa728 | USB    | 1   | SMA | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
+| [ZEXMTE Z01](Dongle/ZEXMTE_Z01.md)                           | 0x0bda | 0xa729 | USB    | 2   | No  | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
 | [ZEXMTE Z03](Dongle/ZEXMTE_Z03.md)                           | ?      | ?      | USB    | 0   | No  | ?                                                |
 
 ## Chips
