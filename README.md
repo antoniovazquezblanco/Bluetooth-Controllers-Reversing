@@ -29,13 +29,13 @@ If you want to contribute to this documentation and do not know how to, checkout
 
 ## Chips
 
-| Chip                                             | WOOTB[^1] | BT Ver |
-| ------------------------------------------------ | --------- | ------ |
-| [Actions ATS2851](Chip/Actions_ATS2851.md)       | Yes       |        |
-| [Barrot BR8554](Chip/Barrot_BR8554.md)           | Yes       |        |
-| [Barrot Unk](Chip/Barrot_Unk.md)                 | Yes       |        |
-| [Espressif ESP32](Chip/Espressif_ESP32.md)       | Yes       |        |
-| [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     | Yes       |        |
-| [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) | No        | 5.1    |
+| Chip                                             | WOOTB[^1] | Modes     | BT Ver |
+| ------------------------------------------------ | --------- | --------- | ------ |
+| [Actions ATS2851](Chip/Actions_ATS2851.md)       | Yes       |           | 5.3    |
+| [Barrot BR8554](Chip/Barrot_BR8554.md)           | Yes       |           | 5.4    |
+| [Barrot Unk](Chip/Barrot_Unk.md)                 | Yes       |           |        |
+| [Espressif ESP32](Chip/Espressif_ESP32.md)       | Yes       | BR/EDR/LE | 4.2    |
+| [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     | Yes       |           | 4.0    |
+| [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) | No        | BR/EDR/LE | 5.1    |
 
 [^1]: Works out of the box.
