@@ -6,8 +6,7 @@
 | ---------------- | ----- |
 | Chip             | ?     |
 | Transport        | USB   |
-| VID              | ?     |
-| PID              | ?     |
+| VID&PID          | ?     |
 | External antenna | 0     |
 | Connector        | No    |
 

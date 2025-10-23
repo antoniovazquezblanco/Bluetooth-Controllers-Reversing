@@ -6,8 +6,7 @@
 | ---------------- | -------------------------------- |
 | Chip             | [Barrot Unk](Chip_Barrot_Unk.md) |
 | Transport        | USB                              |
-| VID              | 0x33fa                           |
-| PID              | 0x0012                           |
+| VID&PID          | 33fa:0012                        |
 | External antenna | 0                                |
 | Connector        | No                               |
 

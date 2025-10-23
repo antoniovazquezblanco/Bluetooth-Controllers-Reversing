@@ -11,8 +11,7 @@ Device labeling will vary. There are other versions of this device with the foll
 | ---------------- | -------------------------------------------- |
 | Chip             | [Qualcomm CSR8150](Chip_Qualcomm_CSR8150.md) |
 | Transport        | USB                                          |
-| VID              | 0x0a12                                       |
-| PID              | 0x0001                                       |
+| VID&PID          | 0a12:0001                                    |
 | External antenna | 0                                            |
 | Connector        | No                                           |
 

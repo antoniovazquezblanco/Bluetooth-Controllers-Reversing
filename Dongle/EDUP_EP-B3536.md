@@ -8,10 +8,7 @@ This same dongle appears to be sold under the EDUP `EP-B3553Plus` model. Both ha
 | ---------------- | ------------------------------------------------ |
 | Chip             | [Realtek RTL8761BUV](Chip_Realtek_RTL8761BUV.md) |
 | Transport        | USB                                              |
-| VID1             | 0x0bda                                           |
-| PID1             | 0xa728                                           |
-| VID2             | 0x2550                                           |
-| PID2             | 0x8761                                           |
+| VID&PID          | 0bda:a728, 2550:8761                            |
 | External antenna | 1                                                |
 | Connector        | SMA                                              |
 

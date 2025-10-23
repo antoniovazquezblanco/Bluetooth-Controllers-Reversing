@@ -6,8 +6,7 @@
 | ---------------- | ------------------------------------------ |
 | Chip             | [Actions ATS2851](Chip_Actions_ATS2851.md) |
 | Transport        | USB                                        |
-| VID              | 0x10d7                                     |
-| PID              | 0xb012                                     |
+| VID&PID          | 10d7:b012                                  |
 | External antenna | 0                                          |
 | Connector        | No                                         |
 

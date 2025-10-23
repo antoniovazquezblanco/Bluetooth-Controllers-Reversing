@@ -6,8 +6,7 @@
 | ---------------- | -------------------------------------- |
 | Chip             | [Barrot BR8554](Chip_Barrot_BR8554.md) |
 | Transport        | USB                                    |
-| VID              | 0x33fa                                 |
-| PID              | 0x0010                                 |
+| VID&PID          | 33fa:0010                              |
 | External antenna | 1                                      |
 | Connector        | No                                     |
 

@@ -6,8 +6,7 @@
 | ---------------- | ------------------------------------------------ |
 | Chip             | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
 | Transport        | USB                                              |
-| VID              | 0x2357                                           |
-| PID              | 0x0604                                           |
+| VID&PID          | 2357:0604                                        |
 | External antenna | 0                                                |
 | Connector        | No                                               |
 
