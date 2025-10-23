@@ -13,7 +13,7 @@ If you want to contribute to this documentation and do not know how to, checkout
 
 | Device                                                       | VID&PID              | Transp | Ant | Con | Chip                                             |
 | ------------------------------------------------------------ | -------------------- | ------ | --- | --- | ------------------------------------------------ |
-| [Cypress CYW920819EVB-02](Dongle/Cypress_CYW920819EVB-02.md) | ?                    | UART   | 1   | UFL | [Cypress CYW20819](Chip/Cypress_CYW20819.md)     |
+| [Cypress CYW920819EVB-02](Dongle/Cypress_CYW920819EVB-02.md) | 04b4:009b                    | UART   | 1   | UFL | [Cypress CYW20819](Chip/Cypress_CYW20819.md)     |
 | [EDUP EP-B3536](Dongle/EDUP_EP-B3536.md)                     | 0bda:a728, 2550:8761 | USB    | 1   | SMA | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
 | [Nebra CSR8510](Dongle/Nebra_CSR8510.md)                     | 0a12:0001            | USB    | 0   | No  | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |
 | [TP-Link UB4A](Dongle/TPLink_UB4A.md)                        | 0a12:0001            | USB    | 0   | No  | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |

@@ -6,7 +6,7 @@
 | ---------------- | -------------------------------------------- |
 | Chip             | [Cypress CYW20819](Chip_Cypress_CYW20819.md) |
 | Transport        | UART                                         |
-| VID&PID          | ?                                            |
+| VID&PID          | 04b4:009b                                    |
 | External antenna | 1                                            |
 | Connector        | UFL                                          |
 
