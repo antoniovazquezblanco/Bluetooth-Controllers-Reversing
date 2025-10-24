@@ -2,17 +2,17 @@
 
 ![UGREEN CM749](UGREEN_CM749.png)
 
-| Parameter        | Value                                  |
-| ---------------- | -------------------------------------- |
-| Chip             | [Barrot BR8554](Chip_Barrot_BR8554.md) |
-| Transport        | USB                                    |
-| VID&PID          | 33fa:0010                              |
-| External antenna | 1                                      |
-| Connector        | No                                     |
+| Parameter        | Value                                     |
+| ---------------- | ----------------------------------------- |
+| Chip             | [Barrot BR8554](../Chip/Barrot_BR8554.md) |
+| Transport        | USB                                       |
+| VID&PID          | 33fa:0010                                 |
+| External antenna | 1                                         |
+| Connector        | No                                        |
 
 ## Vendor commands
 
-Checkout the [Barrot BR8554](Chip_Barrot_BR8554.md) for information about vendor commands.
+Checkout the [Barrot BR8554](../Chip/Barrot_BR8554.md) for information about vendor commands.
 
 ## Links and resources
 

@@ -2,17 +2,17 @@
 
 ![Cypress CYW920819EVB-02](Cypress_CYW920819EVB-02.avif)
 
-| Parameter        | Value                                        |
-| ---------------- | -------------------------------------------- |
-| Chip             | [Cypress CYW20819](Chip_Cypress_CYW20819.md) |
-| Transport        | UART                                         |
-| VID&PID          | 04b4:009b                                    |
-| External antenna | 1                                            |
-| Connector        | UFL                                          |
+| Parameter        | Value                                           |
+| ---------------- | ----------------------------------------------- |
+| Chip             | [Cypress CYW20819](../Chip/Cypress_CYW20819.md) |
+| Transport        | UART                                            |
+| VID&PID          | 04b4:009b                                       |
+| External antenna | 1                                               |
+| Connector        | UFL                                             |
 
 ## Vendor commands
 
-Checkout the [Cypress CYW20819](Chip_Cypress_CYW20819.md) for information about vendor commands.
+Checkout the [Cypress CYW20819](../Chip/Cypress_CYW20819.md) for information about vendor commands.
 
 ## Links and resources
 
