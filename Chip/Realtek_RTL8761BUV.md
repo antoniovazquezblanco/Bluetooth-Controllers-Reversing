@@ -1,5 +1,15 @@
 # Realtek RTL8761BUV Chip
 
+## Dongles
+
+A list of devices that use this chip:
+
+- [EDUP EP-B3536](../Dongle/EDUP_EP-B3536.md)
+- [TP-Link UB500 Plus](../Dongle/TPLink_UB500Plus.md)
+- [TP-Link UB500](../Dongle/TPLink_UB500.md)
+- [ZEXMTE Unk1](../Dongle/ZEXMTE_Unk1.md)
+- [ZEXMTE Z01](../Dongle/ZEXMTE_Z01.md)
+
 ## Local version information
 
 | Parameter      | Value                                      |

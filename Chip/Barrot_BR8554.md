@@ -1,5 +1,11 @@
 # Barrot BR8554 Chip
 
+## Dongles
+
+A list of devices that use this chip:
+
+- [UGREEN CM749](../Dongle/UGREEN_CM749.md)
+
 ## Local version information
 
 | Parameter      | Value                               |

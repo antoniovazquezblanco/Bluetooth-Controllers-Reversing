@@ -1,5 +1,11 @@
 # Cypress CYW20819 Chip
 
+## Dongles
+
+A list of devices that use this chip:
+
+- [Cypress CYW920819EVB-02](../Dongle/Cypress_CYW920819EVB-02.md)
+
 ## Local version information
 
 | Parameter      | Value |

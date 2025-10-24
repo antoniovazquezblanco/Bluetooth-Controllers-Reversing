@@ -2,6 +2,12 @@
 
 This is some kind of RISC 32bit architecture running at 234MHz.
 
+## Dongles
+
+A list of devices that use this chip:
+
+- [UGREEN CM591](../Dongle/UGREEN_CM591.md)
+
 ## Local version information
 
 | Parameter      | Value                               |

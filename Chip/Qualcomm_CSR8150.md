@@ -1,5 +1,12 @@
 # Qualcomm CSR8150 Chip
 
+## Dongles
+
+A list of devices that use this chip:
+
+- [Nebra CSR8510](../Dongle/Nebra_CSR8510.md)
+- [TP-Link UB4A](../Dongle/TPLink_UB4A.md)
+
 ## Local version information
 
 | Parameter      | Value                                            |

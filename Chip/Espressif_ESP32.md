@@ -1,5 +1,9 @@
 # Espressif ESP32 Chip
 
+## Dongles
+
+A list of devices that use this chip:
+
 ## Local version information
 
 | Parameter      | Value |
