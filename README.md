@@ -25,6 +25,7 @@ If you want to contribute to this documentation and do not know how to, checkout
 | [ZEXMTE Unk1](Dongle/ZEXMTE_Unk1.md)                         | 0bda:a728            | USB    | 1   | SMA | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
 | [ZEXMTE Z01](Dongle/ZEXMTE_Z01.md)                           | 0bda:a729            | USB    | 2   | No  | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
 | [ZEXMTE Z03](Dongle/ZEXMTE_Z03.md)                           | ?                    | USB    | 0   | No  | ?                                                |
+| [Rocketek RT-BT4](Dongle/Rocketek_RT-BT4.md)                 | 0a5c:21ec            | USB    | 0   | No  | [Broadcom BCM20702A](Chip/Broadcom_BCM20702A.md) |
 
 ## Chips
 
