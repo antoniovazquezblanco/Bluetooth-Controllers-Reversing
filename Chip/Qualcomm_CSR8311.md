@@ -1,21 +1,19 @@
-# Qualcomm CSR8150 Chip
+# Qualcomm CSR8311 Chip
 
 ## Dongles
 
 A list of devices that use this chip:
 
-- [Nebra CSR8510](../Dongle/Nebra_CSR8510.md)
-- [Rocketek RT-BT4E](../Dongle/Rocketek_RT-BT4E.md)
-- [TP-Link UB4A](../Dongle/TPLink_UB4A.md)
+- [Sena UD100](../Dongles/Sena_UD100.md)
 
 ## Local version information
 
 | Parameter      | Value                                            |
 | -------------- | ------------------------------------------------ |
 | HCI Version    | 4.0                                              |
-| HCI Subversion | 8891                                             |
+| HCI Subversion | 8241                                             |
 | LMP Version    | 4.0                                              |
-| LMP Subversion | 8891                                             |
+| LMP Subversion | 8241                                             |
 | Company        | Qualcomm Technologies International, Ltd. (QTIL) |
 
 ## Vendor commands
@@ -25,4 +23,4 @@ A list of devices that use this chip:
 
 ## Links and documentation
 
-- <https://www.qualcomm.com/products/technology/bluetooth/csr8510>
+- <https://www.qualcomm.com/automotive/products/csr8311a12>

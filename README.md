@@ -16,6 +16,8 @@ If you want to contribute to this documentation and do not know how to, checkout
 | [Cypress CYW920819EVB-02](Dongle/Cypress_CYW920819EVB-02.md) | 04b4:009b            | UART   | 1   | UFL | [Cypress CYW20819](Chip/Cypress_CYW20819.md)     |
 | [EDUP EP-B3536](Dongle/EDUP_EP-B3536.md)                     | 0bda:a728, 2550:8761 | USB    | 1   | SMA | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
 | [Nebra CSR8510](Dongle/Nebra_CSR8510.md)                     | 0a12:0001            | USB    | 0   | No  | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |
+| [Rocketek RT-BT4E](Dongle/Rocketek_RT-BT4E.md)               | 0a12:0001            | USB    | 0   | No  | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |
+| [Sena UD100](Dongle/Sena_UD100.md)                           | 0a12:0001            | USB    | 0   | No  | [Qualcomm CSR8311](Chip/Qualcomm_CSR8311.md)     |
 | [Rocketek RT-BT4](Dongle/Rocketek_RT-BT4.md)                 | 0a5c:21ec            | USB    | 0   | No  | [Broadcom BCM20702A](Chip/Broadcom_BCM20702A.md) |
 | [TP-Link UB4A](Dongle/TPLink_UB4A.md)                        | 0a12:0001            | USB    | 0   | No  | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |
 | [TP-Link UB500 Plus](Dongle/TPLink_UB500Plus.md)             | 2357:0604            | USB    | 0   | No  | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
@@ -37,7 +39,8 @@ If you want to contribute to this documentation and do not know how to, checkout
 | [Broadcom BCM20702A](Chip/Broadcom_BCM20702A.md) |           |           | 4.0    |
 | [Cypress CYW20819](Chip/Cypress_CYW20819.md)     | Yes       |           |        |
 | [Espressif ESP32](Chip/Espressif_ESP32.md)       | Yes       | BR/EDR/LE | 4.2    |
-| [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     | Yes       |           | 4.0    |
+| [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     | Yes       | BR/EDR/LE | 4.0    |
+| [Qualcomm CSR8150](Chip/Qualcomm_CSR8311.md)     | Yes       | BR/EDR/LE | 4.0    |
 | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) | No        | BR/EDR/LE | 5.1    |
 
 [^1]: Works out of the box.
