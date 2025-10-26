@@ -2,6 +2,8 @@
 
 ![Rocketek RT-BT4](Rocketek_RT-BT4.jpg)
 
+Another version of the similar looking dongle exist, [Rocketek RT-BT4E](Rocketek_RT-BT4E.md), based on [Qualcomm CSR8150](../Chip/Qualcomm_CSR8150.md).
+
 | Parameter        | Value                                           |
 | ---------------- | ----------------------------------------------- |
 | Chip             | [Broadcom BCM20702A](../Chip/Broadcom_BCM20702A.md) |
