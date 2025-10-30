@@ -15,7 +15,7 @@ If you want to contribute to this documentation and do not know how to, checkout
 | ------------------------------------------------------------ | -------------------- | ------ | --- | --- | ------------------------------------------------ |
 | [Cypress CYW920819EVB-02](Dongle/Cypress_CYW920819EVB-02.md) | 04b4:009b            | UART   | 1   | UFL | [Cypress CYW20819](Chip/Cypress_CYW20819.md)     |
 | [EDUP EP-B3536](Dongle/EDUP_EP-B3536.md)                     | 0bda:a728, 2550:8761 | USB    | 1   | SMA | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
-| [Hideez Unk1](Dongle/Hideez_Unk1.md)                                                  | 0a12:0001            | USB    | 0   | No  | []()                                             |
+| [Hideez Unk1](Dongle/Hideez_Unk1.md)                         | 0a12:0001            | USB    | 0   | No  | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |
 | [Nebra CSR8510](Dongle/Nebra_CSR8510.md)                     | 0a12:0001            | USB    | 0   | No  | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |
 | [Rocketek RT-BT4](Dongle/Rocketek_RT-BT4.md)                 | 0a5c:21ec            | USB    | 0   | No  | [Broadcom BCM20702A](Chip/Broadcom_BCM20702A.md) |
 | [Rocketek RT-BT4E](Dongle/Rocketek_RT-BT4E.md)               | 0a12:0001            | USB    | 0   | No  | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |
