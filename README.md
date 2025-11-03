@@ -21,8 +21,9 @@ If you want to contribute to this documentation and do not know how to, checkout
 | [Rocketek RT-BT4E](Dongle/Rocketek_RT-BT4E.md)               | 0a12:0001            | USB    | 0   | No  | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |
 | [Sena UD100](Dongle/Sena_UD100.md)                           | 0a12:0001            | USB    | 0   | No  | [Qualcomm CSR8311](Chip/Qualcomm_CSR8311.md)     |
 | [TP-Link UB4A](Dongle/TPLink_UB4A.md)                        | 0a12:0001            | USB    | 0   | No  | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |
-| [TP-Link UB500 Plus](Dongle/TPLink_UB500Plus.md)             | 2357:0604            | USB    | 0   | No  | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
+| [TP-Link UB400](Dongle/TPLink_UB400.md)                      | 0a12:0001            | USB    | 0   | No  | [Qualcomm CSR8150](Chip/Qualcomm_CSR8150.md)     |
 | [TP-Link UB500](Dongle/TPLink_UB500.md)                      | 2357:0604            | USB    | 1   | No  | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
+| [TP-Link UB500 Plus](Dongle/TPLink_UB500Plus.md)             | 2357:0604            | USB    | 0   | No  | [Realtek RTL8761BUV](Chip/Realtek_RTL8761BUV.md) |
 | [UGREEN CM591](Dongle/UGREEN_CM591.md)                       | 10d7:b012            | USB    | 0   | No  | [Actions ATS2851](Chip/Actions_ATS2851.md)       |
 | [UGREEN CM748](Dongle/UGREEN_CM748.md)                       | 33fa:0012            | USB    | 0   | No  | [Barrot Unk](Chip/Barrot_Unk.md)                 |
 | [UGREEN CM749](Dongle/UGREEN_CM749.md)                       | 33fa:0010            | USB    | 1   | No  | [Barrot BR8554](Chip/Barrot_BR8554.md)           |
